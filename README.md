@@ -40,3 +40,31 @@ mlops\_unit1/
 
 &#x20; README.md
 
+
+
+Environment Setup:
+
+
+
+1\. Create virtual environment:
+
+&#x20;  python -m venv venv
+
+
+
+2\. Activate environment (Windows):
+
+&#x20;  venv\\Scripts\\activate
+
+
+
+3\. Install dependencies:
+
+&#x20;  pip install -r requirements.txt
+
+
+
+4\. Run the project:
+
+&#x20;  python source/train\_model.py
+
